@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Geo161</string>
+    <string name="lat">Широта: %1$s</string>
+    <string name="lon">Долгота: %1$s</string>
 </resources>
